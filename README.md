@@ -30,4 +30,4 @@ created different pages like Home-page, login-page, game-section-page, game-stor
 - CSS3
 - JavaScript
 
-# LINK:  https://shivam8369.github.io/Fun2Play/src/index.html
+
